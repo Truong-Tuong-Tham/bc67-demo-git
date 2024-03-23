@@ -4,3 +4,6 @@ git remote add origin https://github.com/Truong-Tuong-Tham/bc67-demo-git.git (t�
 git add -A
 git commit -m "nội dung commit"
 git push -u origin master 
+ git checkout -b teennhanh ~taoj nhánh 
+ git branch : hiển thị nhánh 
+ 
