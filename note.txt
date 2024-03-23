@@ -1,0 +1,6 @@
+git init : khoi tạo repo local
+git remote add origin https://github.com/Truong-Tuong-Tham/bc67-demo-git.git (tạo liệ  kết giữa repo local  với repo remote)
+đứa code lên github có ba bước 
+git add -A
+git commit -m "nội dung commit"
+git push -u origin master 
